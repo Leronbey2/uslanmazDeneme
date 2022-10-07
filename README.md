@@ -8,8 +8,8 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 - Telgraf Kütüphanesi: Telethon & Pyrogram İlk Ve Tek.
 - [Developer](https://t.me/Serserizarog)✨
 
-### 🚀 Deploy to heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Leronbey2/UslanmazTagger)]
+### 🚀 heroku'ya dağıtın
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Leronbey2/UslanmazDeneme)]
 
 ### 🎯 Bana Destek Olmak İstermisin Aşğıdaki Bağlantıdan Bağış Yapa Bilirsin
 
